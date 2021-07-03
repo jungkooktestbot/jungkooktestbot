@@ -1,4 +1,4 @@
-from mtranslate import translate
+from googletranslate import translate
 from SaitamaRobot import telethn
 import json
 import requests
